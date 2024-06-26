@@ -1,5 +1,8 @@
 # Adidas_US_Sales_Data_Done_In_Excel
 
+![adidas_us_sales](adidasshot.jpg)
+
+
 **ADIDAS US SALES OVERVIEW**  
 I worked on this project awhile ago, Adidas US sales data for the years 2020-2021, which I downloaded from Kaggle. The dataset didn't have any brief, I made it my mission to uncover valuable insights, trends, track KPIs, sales performance, simplify complex data into actionable information that can be efficiently presented using data visualization using Excel spreadsheet. 
 
@@ -53,4 +56,4 @@ The company experienced an impressive increase in revenue and profit in 2021 ove
 The company must use various digital marketing strategies to improve online sales, since it is expected that in the current technological environment, online sales would do better than in-store sales. 
 For the upcoming years, the company should continue to adapt and improve on the strategies from 2021 in order to see an increase in growth rate.
 
-![adidas_us_sales](adidasshot.jpg)
+
