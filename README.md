@@ -1,4 +1,4 @@
-# Adidas_US-Sales_Project
+# Adidas_US_Sales_Data_Done_In_Excel
 
 **ADIDAS US SALES OVERVIEW**  
 I worked on this project awhile ago, Adidas US sales data for the years 2020-2021, which I downloaded from Kaggle. The dataset didn't have any brief, I made it my mission to uncover valuable insights, trends, track KPIs, sales performance, simplify complex data into actionable information that can be efficiently presented using data visualization using Excel spreadsheet. 
