@@ -1,4 +1,4 @@
-# Adidas_US_Sales_Data_Done_In_Excel
+# Adidas US Sales Report using Microsoft Excel
 
 ![adidas_us_sales](adidasshot.jpg)
 
