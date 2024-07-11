@@ -1,6 +1,6 @@
 # Adidas US Sales EDA using Microsoft Excel
 &nbsp;
-  
+
 ![adidas_us_sales](adidasshot.jpg)
 
 
